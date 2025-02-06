@@ -1,0 +1,1 @@
+# DHD-File-Inspector-v1.0---An-lise-de-Arquivos-com-VirusTotal
