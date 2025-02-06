@@ -20,6 +20,6 @@ DHD File Inspector é uma ferramenta simples e eficiente para analisar arquivos 
 
 **Para remover as limitações, considere uma API Pro do VirusTotal.**
 
-[**Baixe a última versão aqui!**](https://github.com/[seu-usuario]/[seu-repositorio]/releases)  <!-- Link para a seção de releases do seu repositório -->
+[**Baixe a última versão aqui!**](https://github.com/Lipez800/DHD-File-Inspector-v1.0/releases/tag/v1.0.0)  <!-- Link para a seção de releases do seu repositório -->
 
 Desenvolvido por [Luis Felipe]
